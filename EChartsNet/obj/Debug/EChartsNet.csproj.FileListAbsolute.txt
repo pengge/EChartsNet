@@ -1,0 +1,5 @@
+E:\github\EChartsNet\EChartsNet\EChartsNet\bin\Debug\EChartsNet.dll
+E:\github\EChartsNet\EChartsNet\EChartsNet\bin\Debug\EChartsNet.pdb
+E:\github\EChartsNet\EChartsNet\EChartsNet\obj\Debug\EChartsNet.csprojResolveAssemblyReference.cache
+E:\github\EChartsNet\EChartsNet\EChartsNet\obj\Debug\EChartsNet.dll
+E:\github\EChartsNet\EChartsNet\EChartsNet\obj\Debug\EChartsNet.pdb
