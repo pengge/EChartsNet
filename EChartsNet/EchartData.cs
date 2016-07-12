@@ -28,15 +28,17 @@ namespace EChartsNet
     /// </summary>
     public class EchartData
     {
+        public Title title = new Title();//标题
         public List<string> legend = new List<string>();//数据分组
         public List<string> category = new List<string>();//横坐标
         public List<Series> series = new List<Series>();//纵坐标 
 
-        public EchartData(List<string> legendList, List<string> categoryList, List<Series> seriesList)
+        public EchartData(List<string> legendList, List<string> categoryList, List<Series> seriesList, Title title)
         {
             this.legend = legendList;
             this.category = categoryList;
             this.series = seriesList;
+            this.title = title;
         }
     }
 

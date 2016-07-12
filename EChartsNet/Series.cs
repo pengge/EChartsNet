@@ -25,13 +25,13 @@ namespace EChartsNet
   */
     public class Series
     {
-        public String name;
+        public string name;
 
-        public String type;
+        public string type;
 
         public List<int> data;//这里要用int 不能用String 不然前台显示不正常（特别是在做数学运算的时候）  
 
-        public Series(String name, String type, List<int> data)
+        public Series(string name, string type, List<int> data)
         {
             this.name = name;
             this.type = type;
